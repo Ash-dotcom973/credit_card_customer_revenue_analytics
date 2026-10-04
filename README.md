@@ -316,8 +316,19 @@ The goal was not simply to create charts, but to transform raw customer data int
 - Built a 3-page Power BI analytical dashboard
 
 
+## 📊 Power BI Dashboard
 
+### Executive Overview
 
+![Executive Overview](screenshots/executive_overview.png)
+
+### Customer & Card Analytics
+
+![Customer & Card Analytics](screenshots/customer_card_analytics.png)
+
+### Risk Analytics
+
+![Risk Analytics](screenshots/risk_analytics.png)
 
 
 
