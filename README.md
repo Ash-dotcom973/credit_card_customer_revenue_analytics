@@ -317,7 +317,10 @@ The goal was not simply to create charts, but to transform raw customer data int
 
 
 
+✨A Little Sneak-peak:
 
+Executive Overview:
+(screenshots/Executive Overview.jpg)
 
 
 
