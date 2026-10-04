@@ -319,15 +319,15 @@ The goal was not simply to create charts, but to transform raw customer data int
 ## 📊 Power BI Dashboard
 Executive Overview
 
-![Executive Overview](screenshots/screenshots/ExecutiveOverview.jpg)
+![Executive Overview](screenshots/Executive%20Overview.jpg)
 
 Customer & Card Analytics
 
-![Customer & Card Analytics](screenshots/screenshots/CustomerCardAnalytics.jpg)
+![Customer & Card Analytics](screenshots/Customer%20%26%20Card%20Analytics.jpg)
 
 Risk Analytics
 
-![Risk Analytics](screenshots/screenshots/RiskAnalytics.jpg)
+![Risk Analytics](screenshots/Risk%20Analytics.jpg)
 
 
 
