@@ -321,14 +321,13 @@ Executive Overview
 
 ![Executive Overview](screenshots/Executive%20Overview.jpg)
 
-Customer & Card Analytics
+Python Data Cleaning
 
-![Customer & Card Analytics](screenshots/Customer%20%26%20Card%20Analytics.jpg)
+![Python Pandas](screenshots/Python%20Pandas.jpg)
 
-Risk Analytics
+SQL Queries 
 
-![Risk Analytics](screenshots/Risk%20Analytics.jpg)
-
+![SQL Queries](screenshots/SQL%20Queries.jpg)
 
 
 
